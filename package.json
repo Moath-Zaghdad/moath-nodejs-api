@@ -1,0 +1,13 @@
+{
+  "name": "moath-nodejs-api",
+  "version": "1.0.0",
+  "description": "This project was created as an assignment for a Web Development class.",
+  "main": "index.js",
+  "repository": "https://github.com/Moath-Zaghdad/moath-nodejs-api",
+  "author": "Mo'ath Zaghdad <moath.m.zaghdad@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.21.1",
+    "mongoose": "^8.7.1"
+  }
+}
